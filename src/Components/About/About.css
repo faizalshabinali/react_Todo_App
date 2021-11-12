@@ -1,0 +1,17 @@
+.card {
+  width: 500px;
+  margin: 50px auto;
+  background-color: #05556530;
+  padding: 18px;
+  border-radius: 10px;
+  box-shadow: 0 0 6px 8px rgb(1 28 34 / 7%);
+  border-radius: 10px;
+  color: #08869e;
+  text-align: center;
+}
+
+.design {
+  color: #0244507a;
+  font-size: 20px;
+  font-weight: bold;
+}
